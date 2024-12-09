@@ -1,14 +1,14 @@
 # Home Credit Loan Prediction Project
 
-Business Problem
+## Business Problem
 
 Many individuals with limited or no credit history face difficulties obtaining loans, often resorting to unreliable lenders. Home Credit Group seeks to address this issue by expanding financial inclusion through safe and accessible loans. This project aims to enhance Home Credit's ability to predict loan repayment capabilities, enabling them to reach more clients without escalating default rates.
 
-Proposed Solution
+## Proposed Solution
 
 The solution involves developing a supervised machine learning classification model to predict whether a client can repay a loan. Leveraging historical data such as credit scores, monthly balances, and other relevant fields, the model will provide repayment probabilities for each client. These predictions will help Home Credit make informed decisions about loan approvals and terms, reducing defaults while extending opportunities to underserved individuals.
 
-Benefits
+## Benefits
 
 Enhanced prediction accuracy will enable Home Credit to:
 
@@ -44,7 +44,7 @@ Customer Education: Introducing financial literacy programs ensures borrowers be
 Average Loan Impact: With an average loan amount of $557,778, the model’s improved risk stratification directly reduces exposure to significant losses.
 
 
-Challenges & Solutions
+## Challenges & Solutions
 
 Class Imbalance: Only 8% of clients in the dataset experienced payment difficulties. Advanced techniques like SMOTE, class weighting, and XGBoost helped address this issue.
 
@@ -53,7 +53,7 @@ Outliers: Extreme values, such as anomalies in "Days Employed," required careful
 Missing Values: Thoughtful imputation and feature reduction were employed to manage fields with over 50% missing data.
 
 
-Deliverables
+## Deliverables
 
 EDA Notebook
 
@@ -64,7 +64,7 @@ Final Presentation
 GitHub Analytics Portfolio
 
 
-Conclusion and Future Directions
+## Conclusion and Future Directions
 
 While class imbalance posed significant challenges, the project successfully improved Home Credit’s ability to identify high-risk clients, ensuring loans are extended responsibly. Future steps include:
 
