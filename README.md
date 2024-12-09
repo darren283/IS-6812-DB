@@ -27,6 +27,8 @@ Using advanced techniques like SMOTE and class weighting to address class imbala
 ## Model Development and Performance
 
 Our team explored a range of machine learning models, starting with baseline logistic regression to establish a performance benchmark. We then implemented advanced algorithms like Random Forest and XGBoost to enhance predictive power. Recognizing the importance of recall in minimizing loan default risks, we focused on models that improved this metric.
+![image](https://github.com/user-attachments/assets/29e6c9c5-8fc6-4b3e-81fb-a1770a3bae3d)
+
 
 Key achievements included:
 
