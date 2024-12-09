@@ -35,6 +35,8 @@ Achieving a recall rate of 0.75, significantly enhancing the identification of p
 Reducing potential annual financial losses to $178.5 million and $8.91 billion over five years.
 
 Demonstrating the viability of risk-based lending strategies tailored to high-, medium-, and low-risk borrowers.
+![image](https://github.com/user-attachments/assets/2aec2e20-7bdc-4a5b-951c-1e21eaba5811)
+
 
 ## Practical Lending Strategies
 
