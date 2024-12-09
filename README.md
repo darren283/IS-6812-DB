@@ -1,12 +1,15 @@
 # Home Credit Loan Prediction Project
 
 Business Problem
+
 Many individuals with limited or no credit history face difficulties obtaining loans, often resorting to unreliable lenders. Home Credit Group seeks to address this issue by expanding financial inclusion through safe and accessible loans. This project aims to enhance Home Credit's ability to predict loan repayment capabilities, enabling them to reach more clients without escalating default rates.
 
 Proposed Solution
+
 The solution involves developing a supervised machine learning classification model to predict whether a client can repay a loan. Leveraging historical data such as credit scores, monthly balances, and other relevant fields, the model will provide repayment probabilities for each client. These predictions will help Home Credit make informed decisions about loan approvals and terms, reducing defaults while extending opportunities to underserved individuals.
 
 Benefits
+
 Enhanced prediction accuracy will enable Home Credit to:
 
 Approve loans for clients with repayment potential.
