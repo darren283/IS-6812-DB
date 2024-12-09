@@ -21,6 +21,8 @@ Removing redundant features, such as those representing the same information in 
 Imputing missing values with means for numerical fields and placeholders for categorical fields.
 
 Mitigating the effects of outliers to improve data quality and model performance.
+![image](https://github.com/user-attachments/assets/448a4874-baac-4604-bac5-a6512101c060)
+
 
 Using advanced techniques like SMOTE and class weighting to address class imbalance effectively.
 
